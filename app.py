@@ -15,6 +15,10 @@ def div(num1, num2):
 def multi(num1, num2):
   return num1 * num2
 
+# Display
+print('Welcome to Simple Calculator')
+print('You can do the basic calculations')
+
 # Take input
 n1 = int(input('Enter First Number: '))
 op = input(' Enter "+" or "-" or "*" or "/" only: ')
